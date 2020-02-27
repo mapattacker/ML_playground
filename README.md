@@ -5,3 +5,4 @@ Machine Learning examples using playground datasets
 * Long Short-Term Memory (LSTM): Yahoo stock API ``LSTM stock prediction.ipynb``
 * Neural Network (ANN): Iris dataset ``ANN Iris.ipynb``
 * Plot Decision Boundaries of Models ``plot decision boundary of models.ipynb``
+* Active Learning example using Digits dataset ``active_learning_playground.ipynb``
